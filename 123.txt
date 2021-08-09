@@ -4,3 +4,8 @@ git 分支合并到主分支
 这是一次github的测试
 测试git pull  ssh链接
 push ssh链接
+go 
+fmt {
+  if 1<2
+    显示 你是只小狗狗
+}
